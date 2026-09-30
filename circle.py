@@ -10,4 +10,4 @@ def circle_circumference(diameter):
   pi = 3.14159
   return 2 * pi * radius
 
-print (f"circumferenceof circle with diameter 10: {circle_circumference(10)}")
+print (f"diameter of a  circle with radius 5: {circle_circumference(10)}")
